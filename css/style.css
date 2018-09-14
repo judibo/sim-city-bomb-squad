@@ -1,0 +1,33 @@
+body {
+    background-size: cover;
+    background-attachment: fixed;
+}
+.unexploded {
+    background-image: url('../img/simcity.jpg');
+}   
+
+.exploded {
+    background-image: url('../img/explosion.jpg');
+}
+
+main {
+    width: 16%;
+    height: 350px;
+    background-color: black;
+    margin: 2em auto;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: red;
+    padding-top: 15px;
+}
+
+button {
+    width: 145px;
+    margin-top: 5px;
+}
